@@ -1,0 +1,84 @@
+ .origami{
+    display:flex;
+    justify-content: space-evenly;
+    background-color: rgb(91, 222, 240);
+}
+/* .img1{
+    display: flex;
+    justify-content: space-between;
+    margin-left:100px;
+    margin-top:800px;
+} */ 
+.about a{
+    margin-left: 1000px;
+    margin-bottom:200px;
+    color:aliceblue
+}
+.img1 img{
+    display:flex;
+    position:absolute;
+    top:25%;
+    outline:20px solid rgb(12, 34, 232)
+}
+.img2 img{
+    display:flex;
+    position:absolute;
+    top:85%;
+    outline:20px solid rgb(12, 34, 232);
+}
+.img3 p{
+    display:flex;
+    position:absolute;
+    right:10%;
+    margin-bottom:150px;
+    
+}
+.img3 img{
+    display:flex;
+    position: absolute;
+    top:145%;
+    outline:20px solid rgb(12, 34, 232);
+    border-radius: 30%;
+}
+.img4 img{
+    display:flex;
+   
+ position: absolute;
+   left:1%;
+   top:210%;
+   outline:20px solid rgb(12, 34, 232);
+}
+.d1{
+    display:flex;
+     margin-left:290px;
+    margin-top:50px;
+    font-size: 20px;
+}
+.d2 p{
+    display:flex;
+     position: absolute;
+     top:90%;
+     left:23%;
+    font-size: 20px;
+}
+.d3 p{
+    display:flex;
+    justify-content: flex-start;
+   font-size: 20px;
+   position:absolute;
+   top:150%;
+   left:23%;
+
+}
+.d4{
+    display:flex;
+   font-size: 20px;
+   position:absolute;
+   left:23%;
+   top:210%
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    background-image:linear-gradient(to right, rgb(65, 199, 217),rgb(48, 227, 224),rgb(18, 163, 230),rgb(2, 58, 199))
+}
